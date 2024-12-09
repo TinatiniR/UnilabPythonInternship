@@ -35,6 +35,9 @@
 ### 2024 სტაჟირება
 - რომა გრიგალაშვილი | [R-Grigala](./2024/roma_grigalashvili) | [View Website](https://htmlpreview.github.io/?https://raw.githubusercontent.com/UnilabEdu/UnilabPythonInternship/master/Chapter03_CSS/Projects/2024/roma_grigalashvili/index.html)
 
+
+- თინათინი როსტომაშვილი https://htmlpreview.github.io/?https://github.com/TinatiniR/UnilabPythonInternship/blob/master/Chapter04_Bootstrap/Projects/2024/Tinatini%20Rostomashvili/index.html
+
 ## ინსტრუქცია:
 
 წინა თავში შესრულებულ ან სრულიად ახალ ვებ გვერდს გაუკეთეთ სტილი Bootstrap-ის გამოყენებით
